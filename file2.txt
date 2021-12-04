@@ -1,3 +1,4 @@
 git hub cloning is nothing but importing the repository to the folder in our desktop
 forking is all about accessing other people work through git hub online 
 we should initialize a git. folder in our folder to stage our files into that and so that we can push it into git hub repo
+not commited y
