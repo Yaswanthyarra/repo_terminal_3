@@ -1,4 +1,5 @@
 
+all this file is eidted for the second dtime
 
 
 
@@ -13,4 +14,3 @@
 
  
 
-ng the dfile1 though the terminal vim editor
